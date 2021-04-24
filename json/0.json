@@ -6,25 +6,23 @@
       "link_redirect": "https://",
 
 
-      "admob_inter1": "XXca-app-pub-4132761121202947/5730350930",
-      "admob_inter2": "XXca-app-pub-4132761121202947/3104187596",
-      "admob_inter3": "XXca-app-pub-4132761121202947/8164942584",
-      "admob_native_banner": "XXca-app-pub-4132761121202947/3407439926",
-      "admob_native": "XXca-app-pub-4132761121202947/3407439926",
-      "admob_open": "XXca-app-pub-4132761121202947/3650982506",
+      "admob_inter1": "XX",
+      "admob_inter2": "XX",
+      "admob_inter3": "XX",
+      "admob_native": "XX",
+      "admob_native_banner": "XX",
+      "admob_open": "XXc",
 
 
       "interval_intertitial": "6",
       "startappid": "203085380",
 
-      "fan_inter": "289450802791958_289450846125287",
-      "fan_natine_banner": "289450802791958_289450849458620",
-      "fan_natine": "289450802791958_289450849458620",
+      "fan_inter": "XX",
+      "fan_natine_banner": "XX",
+      "fan_natine": "XX",
 
-      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
-      "mopub_inter": "24534e1901884e398f1253216226017e",
-
-      "packagename": "com.cari.bts_jimin_fake_chat_fakecall"
+      "mopub_banner": "XX",
+      "mopub_inter": "XX",
     }
   ]
 }
