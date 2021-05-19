@@ -1,0 +1,28 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ISI",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_inter1": "ca-app-pub-7961099300265062/8921493584",
+      "admob_inter2": "ca-app-pub-7961099300265062/7935236041",
+      "admob_inter3": "ca-app-pub-7961099300265062/1001613299",
+      "admob_native": "ca-app-pub-7961099300265062/3669166909",
+      "admob_native_banner": "ca-app-pub-7961099300265062/4111541100",
+      "admob_open": "ca-app-pub-7961099300265062/2798459439",
+
+
+      "interval_intertitial": "6",
+      "startappid": "204612855",
+
+      "fan_inter": "XX",
+      "fan_natine_banner": "XX",
+      "fan_natine": "XX",
+
+      "mopub_banner": "XX",
+      "mopub_inter": "XX"
+    }
+  ]
+}
