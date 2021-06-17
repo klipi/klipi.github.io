@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "STARTAPP",
+      "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
 
@@ -14,7 +14,7 @@
       "admob_open": "ca-app-pub-7961099300265062/3770602662",
 
 
-      "interval_intertitial": "6",
+      "interval_intertitial": "5",
       "startappid": "204612855",
 
       "fan_inter": "XX",
