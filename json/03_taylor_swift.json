@@ -6,12 +6,12 @@
       "link_redirect": "https://",
 
 
-      "admob_inter1": "ca-app-pub-7961099300265062/3742952007",
-      "admob_inter2": "ca-app-pub-7961099300265062/8803706998",
-      "admob_inter3": "ca-app-pub-7961099300265062/2455782884",
-      "admob_native": "ca-app-pub-7961099300265062/8829619546",
-      "admob_native_banner": "ca-app-pub-7961099300265062/9925216970",
-      "admob_open": "ca-app-pub-7961099300265062/5674146624",
+      "admob_inter1": "SGA/3742952007",
+      "admob_inter2": "SGA/8803706998",
+      "admob_inter3": "SGA/2455782884",
+      "admob_native": "SGA/8829619546",
+      "admob_native_banner": "SGA/9925216970",
+      "admob_open": "SGA/5674146624",
 
 
       "interval_intertitial": "6",

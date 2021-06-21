@@ -1,0 +1,31 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ISI",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "backup_mode": "ISI",
+
+
+      "admob_inter1": "",
+      "admob_native": "",
+      "admob_native_banner": "",
+      "admob_open": "",
+
+
+      "interval": 5,
+      "startappid": "203085380",
+      "age1": 18,
+      "age2": 25,
+      "age3": 30,
+      "age4": 45,
+
+      "fan_inter": "XX",
+      "fan_native_banner": "XX",
+      "fan_native": "XX",
+
+      "mopub_banner": "XX",
+      "mopub_inter": "XX"
+    }
+  ]
+}
