@@ -1,10 +1,10 @@
 {
   "Ads": [
     {
-      "select_ads": "ISI",
+      "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
-      "backup_mode": "ISI",
+      "backup_mode": "STARTAPP",
 
 
       "admob_inter1": "ca-app-pub-2941742403245073/6738180777",
@@ -16,7 +16,7 @@
 
 
       "interval": 5,
-      "startappid": "203085380",
+      "startappid": "205147161",
       "age1": 18,
       "age2": 25,
       "age3": 30,
