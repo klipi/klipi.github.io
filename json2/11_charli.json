@@ -1,16 +1,16 @@
 {
   "Ads": [
     {
-      "select_ads": "ISI",
+      "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
-      "backup_mode": "ISI",
+      "backup_mode": "ADMOB",
 
 
-      "admob_inter1": "",
-      "admob_native": "",
-      "admob_native_banner": "",
-      "admob_open": "",
+      "admob_inter1": "ca-app-pub-2941742403245073/8049981180",
+      "admob_native": "ca-app-pub-2941742403245073/1429566665",
+      "admob_native_banner": "ca-app-pub-2941742403245073/9116484994",
+      "admob_open": "ca-app-pub-2941742403245073/7803403327",
 
 
       "interval": 5,
