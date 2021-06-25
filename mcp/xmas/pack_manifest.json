@@ -1,0 +1,16 @@
+{
+  "header": {
+    "pack_id": "e078062c-36d2-4a6c-810d-c47523a06e80",
+    "name": "CasualSkinpack ChristmasEd",
+    "packs_version": "1.0.0",
+    "description": "Casual Skin Pack with all christmas skins!",
+    "modules": [
+      {
+        "description": "Casual Skin Pack with all christmas skins!",
+        "version": "1.0.0",
+        "uuid": "1c55f05b-cc2c-4ac0-8bfd-fb82cb56c5e0",
+        "type": "skin_pack"
+      }
+    ]
+  }
+}

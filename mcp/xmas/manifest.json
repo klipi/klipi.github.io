@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "CasualSkinpack ChristmasEd",
+        "uuid": "df2bbb56-282f-4ac1-84fb-63d61fd1f02c",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "85a8960b-59a6-42de-ae3d-7d040cbf918c",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

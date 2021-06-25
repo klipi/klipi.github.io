@@ -1,0 +1,836 @@
+{
+  "geometry": "skinpacks/skins.json",
+  "skins": [
+         {
+      "localization_name": "Christmas Boy 1",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 1.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 2.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 3",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 3.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Boy 4.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 5",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 5.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 6",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 6.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 7",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 7.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Boy 8.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 9",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 9.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Boy 10.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Boy 11.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 12",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 12.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 13",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 13.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 14",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 14.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 15",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 15.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 16",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 16.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 17",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 17.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 18",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 18.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 19",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 19.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 20",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 20.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 21",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 21.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 22",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 22.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 23",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 23.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 24",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 24.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 25",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 25.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 26",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 26.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 27",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 27.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 28",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 28.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 29",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 29.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 30",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 30.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 31",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 31.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 32",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 32.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 33",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 33.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 34",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Boy 34.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 35",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 35.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 36",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 36.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 37",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 37.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 38",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 38.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 39",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Boy 39.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 40",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 40.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 41",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 41.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 42",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 42.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 43",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 43.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 44",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Boy 44.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 45",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 45.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 46",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 46.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 47",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 47.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 48",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 48.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 49",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Boy 49.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Boy 50",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Boy 50.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Reindeer",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 1.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Reindeer 2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 20.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Santa",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 5.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Santa 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 6.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Santa 3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 18.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Santa 4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 22.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Santa 5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 29.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Villager",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 2.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Villager 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 33.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Pillager",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 21.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Steve",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 12.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Elf Steve",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 14.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Ice Steve",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 32.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Eskimo Steve",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 40.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Creeper",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 13.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Derp Skin",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 3.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Astronaut",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 4.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Snowman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 23.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Snowman 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 26.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Snowman 3",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 39.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Snowman Dream",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 7.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Squidward",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 8.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Jerry with Scarf",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 9.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Doge",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 10.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Dog",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 25.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Chick",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 11.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Bear",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 15.png",
+      "type": "free"
+    },        
+        {
+      "localization_name": "Christmas Bear 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 30.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Dragon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 16.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Penguin",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 17.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Penguin 2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 36.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Penguin 3",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 24.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Cookie",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 31.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Shrek",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 28.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Grinch",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 38.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Skeleton",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 34.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Gingerbread Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas Skin 37.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas melon",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Skin 27.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 1",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 1.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 2.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 3",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 3.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 4",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 4.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 5",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 5.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 6",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 6.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 7",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 7.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 8",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 8.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 9",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 9.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 10",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 10.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 11",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 11.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 12",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 12.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 13",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 13.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 14",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 14.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 15",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 15.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 16",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 16.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 17",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 17.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 18",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 18.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 19",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 19.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 20",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 20.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 21",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 21.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 22",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 22.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 23",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 23.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 24",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 24.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 25",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 25.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 26",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 26.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 27",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 27.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 28",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 28.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 29",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 29.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 30",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 30.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 31",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 31.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 32",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 32.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 33",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 33.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 34",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 34.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 35",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 35.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 36",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 36.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 37",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 37.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 38",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 38.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 39",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 39.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 40",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 40.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 41",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 41.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 42",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 42.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 43",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 43.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 44",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 44.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 45",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 45.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 46",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 46.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 47",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 47.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 48",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 48.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 49",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 49.png",
+      "type": "free"
+    },
+         {
+      "localization_name": "Christmas Girl 50",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas Girl 50.png",
+      "type": "free"
+    }
+
+  ],
+  "serialize_name": "CasualSkinpack ChristmasEd",
+  "localization_name": "CasualSkinpack ChristmasEd"
+}
