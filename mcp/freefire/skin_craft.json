@@ -1,0 +1,461 @@
+{
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"suwarni dev",
+      "image":"file:///android_asset/play.png",
+      "link":"https://play.google.com/store/apps/developer?id=suwarni+dev&hl=en"
+    }
+  ],
+
+  "Skin2":
+  [
+    {
+      "id":1,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin1.png",
+      "view_skin":"file:///android_asset/1.webp"
+    },
+    {
+      "id":2,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin2.png",
+      "view_skin":"file:///android_asset/2.webp"
+    },
+    {
+      "id":3,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin3.png",
+      "view_skin":"file:///android_asset/3.webp"
+    },
+    {
+      "id":4,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin4.png",
+      "view_skin":"file:///android_asset/4.webp"
+    }
+    ],
+
+
+  "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin1.png",
+      "view_skin":"file:///android_asset/1.webp"
+    },
+    {
+      "id":2,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin2.png",
+      "view_skin":"file:///android_asset/2.webp"
+    },
+    {
+      "id":3,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin3.png",
+      "view_skin":"file:///android_asset/3.webp"
+    },
+    {
+      "id":4,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin4.png",
+      "view_skin":"file:///android_asset/4.webp"
+    },
+    {
+      "id":5,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin5.png",
+      "view_skin":"file:///android_asset/5.webp"
+    },
+    {
+      "id":6,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin6.png",
+      "view_skin":"file:///android_asset/6.webp"
+    },
+    {
+      "id":7,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin7.png",
+      "view_skin":"file:///android_asset/7.webp"
+    },
+    {
+      "id":8,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin8.png",
+      "view_skin":"file:///android_asset/8.webp"
+    },
+    {
+      "id":9,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin9.png",
+      "view_skin":"file:///android_asset/9.webp"
+    },
+    {
+      "id":10,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin10.png",
+      "view_skin":"file:///android_asset/10.webp"
+    },
+    {
+      "id":11,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin11.png",
+      "view_skin":"file:///android_asset/11.webp"
+    },
+    {
+      "id":12,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin12.png",
+      "view_skin":"file:///android_asset/12.webp"
+    },
+    {
+      "id":13,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin13.png",
+      "view_skin":"file:///android_asset/13.webp"
+    },
+    {
+      "id":14,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin14.png",
+      "view_skin":"file:///android_asset/14.webp"
+    },
+    {
+      "id":15,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin15.png",
+      "view_skin":"file:///android_asset/15.webp"
+    },
+    {
+      "id":16,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin16.png",
+      "view_skin":"file:///android_asset/16.webp"
+    },
+    {
+      "id":17,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin17.png",
+      "view_skin":"file:///android_asset/17.webp"
+    },
+    {
+      "id":18,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin18.png",
+      "view_skin":"file:///android_asset/18.webp"
+    },
+    {
+      "id":19,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin19.png",
+      "view_skin":"file:///android_asset/19.webp"
+    },
+    {
+      "id":20,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin20.png",
+      "view_skin":"file:///android_asset/20.webp"
+    },
+    {
+      "id":21,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin21.png",
+      "view_skin":"file:///android_asset/21.webp"
+    },
+    {
+      "id":22,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin22.png",
+      "view_skin":"file:///android_asset/22.webp"
+    },
+    {
+      "id":23,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin23.png",
+      "view_skin":"file:///android_asset/23.webp"
+    },
+    {
+      "id":24,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin24.png",
+      "view_skin":"file:///android_asset/24.webp"
+    },
+    {
+      "id":25,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin25.png",
+      "view_skin":"file:///android_asset/25.webp"
+    },
+    {
+      "id":26,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin26.png",
+      "view_skin":"file:///android_asset/26.webp"
+    },
+    {
+      "id":27,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin27.png",
+      "view_skin":"file:///android_asset/27.webp"
+    },
+    {
+      "id":28,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin28.png",
+      "view_skin":"file:///android_asset/28.webp"
+    },
+    {
+      "id":29,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin29.png",
+      "view_skin":"file:///android_asset/29.webp"
+    },
+    {
+      "id":30,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin30.png",
+      "view_skin":"file:///android_asset/30.webp"
+    },
+    {
+      "id":31,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin31.png",
+      "view_skin":"file:///android_asset/31.webp"
+    },
+    {
+      "id":32,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin32.png",
+      "view_skin":"file:///android_asset/32.webp"
+    },
+    {
+      "id":33,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin33.png",
+      "view_skin":"file:///android_asset/33.webp"
+    },
+    {
+      "id":34,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin34.png",
+      "view_skin":"file:///android_asset/34.webp"
+    },
+    {
+      "id":35,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin35.png",
+      "view_skin":"file:///android_asset/35.webp"
+    },
+    {
+      "id":36,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin36.png",
+      "view_skin":"file:///android_asset/36.webp"
+    },
+    {
+      "id":37,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin37.png",
+      "view_skin":"file:///android_asset/37.webp"
+    },
+    {
+      "id":38,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin38.png",
+      "view_skin":"file:///android_asset/38.webp"
+    },
+    {
+      "id":39,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin39.png",
+      "view_skin":"file:///android_asset/39.webp"
+    },
+    {
+      "id":40,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin40.png",
+      "view_skin":"file:///android_asset/40.webp"
+    },
+    {
+      "id":41,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin41.png",
+      "view_skin":"file:///android_asset/41.webp"
+    },
+    {
+      "id":42,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin42.png",
+      "view_skin":"file:///android_asset/42.webp"
+    },
+    {
+      "id":43,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin43.png",
+      "view_skin":"file:///android_asset/43.webp"
+    },
+    {
+      "id":44,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin44.png",
+      "view_skin":"file:///android_asset/44.webp"
+    },
+    {
+      "id":45,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin45.png",
+      "view_skin":"file:///android_asset/45.webp"
+    },
+    {
+      "id":46,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin46.png",
+      "view_skin":"file:///android_asset/46.webp"
+    },
+    {
+      "id":47,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin47.png",
+      "view_skin":"file:///android_asset/47.webp"
+    },
+    {
+      "id":48,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin48.png",
+      "view_skin":"file:///android_asset/48.webp"
+    },
+    {
+      "id":49,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin49.png",
+      "view_skin":"file:///android_asset/49.webp"
+    },
+    {
+      "id":50,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin50.png",
+      "view_skin":"file:///android_asset/50.webp"
+    },
+    {
+      "id":51,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin51.png",
+      "view_skin":"file:///android_asset/51.webp"
+    },
+    {
+      "id":52,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin52.png",
+      "view_skin":"file:///android_asset/52.webp"
+    },
+    {
+      "id":53,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin53.png",
+      "view_skin":"file:///android_asset/53.webp"
+    },
+    {
+      "id":54,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin54.png",
+      "view_skin":"file:///android_asset/54.webp"
+    },
+    {
+      "id":55,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin55.png",
+      "view_skin":"file:///android_asset/55.webp"
+    },
+    {
+      "id":56,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin56.png",
+      "view_skin":"file:///android_asset/56.webp"
+    },
+    {
+      "id":57,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin57.png",
+      "view_skin":"file:///android_asset/57.webp"
+    },
+    {
+      "id":58,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin58.png",
+      "view_skin":"file:///android_asset/58.webp"
+    },
+    {
+      "id":59,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin59.png",
+      "view_skin":"file:///android_asset/59.webp"
+    },
+    {
+      "id":60,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin60.png",
+      "view_skin":"file:///android_asset/60.webp"
+    },
+    {
+      "id":61,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin61.png",
+      "view_skin":"file:///android_asset/61.webp"
+    },
+    {
+      "id":62,
+      "nama_skin":"Fire Skin",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin62.png",
+      "view_skin":"file:///android_asset/62.webp"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Fire Addon",
+      "add_url":"https://rastariski01.github.io/ffskinmcpe/addon/addon1.zip",
+      "addB_url":"https://rastariski01.github.io/ffskinmcpe/addon/addon1(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/ffskinmcpe/addon/addon1(B).mcpack",
+      "view_add":"file:///android_asset/ad1.webp",
+      "des_add":"file:///android_asset/adon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Fire Addon",
+      "add_url":"https://rastariski01.github.io/ffskinmcpe/addon/addon2.zip",
+      "addB_url":"https://rastariski01.github.io/ffskinmcpe/addon/addon2(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/ffskinmcpe/addon/addon2(B).mcpack",
+      "view_add":"file:///android_asset/ad2.webp",
+      "des_add":"file:///android_asset/adon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Fire Map",
+      "map_url":"https://rastariski01.github.io/ffskinmcpe/map/map1.zip",
+      "view_map":"file:///android_asset/map1.webp",
+      "des_map":"file:///android_asset/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Fire Map",
+      "map_url":"https://rastariski01.github.io/ffskinmcpe/map/map2.zip",
+      "view_map":"file:///android_asset/map2.webp",
+      "des_map":"file:///android_asset/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Fire Map",
+      "map_url":"https://rastariski01.github.io/ffskinmcpe/map/map3.zip",
+      "view_map":"file:///android_asset/map3.webp",
+      "des_map":"file:///android_asset/map.html"
+    }
+  ]
+}
