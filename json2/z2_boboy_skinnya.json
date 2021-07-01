@@ -1,46 +1,326 @@
 {
-  "Ads":
-  [
-    {
 
-      
-      "select_ads":"0",
-      "link":"http://",
-      "backup_mode":"0",
-
-      
-      "admob_inter":"",
-      "admob_open_ads":"",
-      "admob_native_banner":"",
-
-      "interval":3,
-
-      "fan_inter":"",
-      "fan_native_banner":"",
-
-
-      "startappid":205147161,
-
-      "mopub_banner":"",
-      "mopub_inter":"",
-      
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":"",
-
-
-      "status":"0"
-    }
-
-  ],
-
-  "More":
+  "Skin":
   [
     {
       "id":1,
-      "judul":"GET THIS SKIN ON GOOGLE PLAY",
-      "image":"https://klipi.github.io/gambar/mors.webp",
-      "link":"https://play.google.com/store/apps/developer?id=IPPS+DIVILIPIR"
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin1.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/1.webp"
+    },
+    {
+      "id":2,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin2.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/2.webp"
+    },
+    {
+      "id":3,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin3.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/3.webp"
+    },
+    {
+      "id":4,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin4.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/4.webp"
+    },
+    {
+      "id":5,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin5.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/5.webp"
+    },
+    {
+      "id":6,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin6.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/6.webp"
+    },
+    {
+      "id":7,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin7.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/7.webp"
+    },
+    {
+      "id":8,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin8.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/8.webp"
+    },
+    {
+      "id":9,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin9.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/9.webp"
+    },
+    {
+      "id":10,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin10.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/10.webp"
+    },
+    {
+      "id":11,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin11.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/11.webp"
+    },
+    {
+      "id":12,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin12.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/12.webp"
+    },
+    {
+      "id":13,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin13.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/13.webp"
+    },
+    {
+      "id":14,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin14.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/14.webp"
+    },
+    {
+      "id":15,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin15.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/15.webp"
+    },
+    {
+      "id":16,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin16.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/16.webp"
+    },
+    {
+      "id":17,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin17.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/17.webp"
+    },
+    {
+      "id":18,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin18.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/18.webp"
+    },
+    {
+      "id":19,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin19.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/19.webp"
+    },
+    {
+      "id":20,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin20.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/20.webp"
+    },
+    {
+      "id":21,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin21.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/21.webp"
+    },
+    {
+      "id":22,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin22.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/22.webp"
+    },
+    {
+      "id":23,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin23.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/23.webp"
+    },
+    {
+      "id":24,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin24.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/24.webp"
+    },
+    {
+      "id":25,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin25.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/25.webp"
+    },
+    {
+      "id":26,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin26.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/26.webp"
+    },
+    {
+      "id":27,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin27.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/27.webp"
+    },
+    {
+      "id":28,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin28.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/28.webp"
+    },
+    {
+      "id":29,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin29.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/29.webp"
+    },
+    {
+      "id":30,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin30.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/30.webp"
+    },
+    {
+      "id":31,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin31.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/31.webp"
+    },
+    {
+      "id":32,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin32.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/32.webp"
+    },
+    {
+      "id":33,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin33.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/33.webp"
+    },
+    {
+      "id":34,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin34.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/34.webp"
+    },
+    {
+      "id":35,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin35.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/35.webp"
+    },
+    {
+      "id":36,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin36.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/36.webp"
+    },
+    {
+      "id":37,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin37.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/37.webp"
+    },
+    {
+      "id":38,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin38.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/38.webp"
+    },
+    {
+      "id":39,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin39.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/39.webp"
+    },
+    {
+      "id":40,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin40.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/40.webp"
+    },
+    {
+      "id":41,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin41.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/41.webp"
+    },
+    {
+      "id":42,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin42.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/42.webp"
+    },
+    {
+      "id":43,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin43.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/43.webp"
+    },
+    {
+      "id":44,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin44.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/44.webp"
+    },
+    {
+      "id":45,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin45.png",
+      "view_skin":"https://klipi.github.io/mcp/boboy/45.webp"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"BOBOI BOY MOD ADDON",
+      "add_url":"https://rastariski01.github.io/boboyboymod/addon/addon1.zip",
+      "addB_url":"https://rastariski01.github.io/boboyboymod/addon/addon1(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/boboyboymod/addon/addon1(R).mcpack",
+      "view_add":"https://klipi.github.io/mcp/boboy/ad1.webp",
+      "des_add":"https://klipi.github.io/mcp/boboy/adon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"BOBOI BOY MOD ADDON",
+      "add_url":"https://rastariski01.github.io/boboyboymod/addon/addon2.zip",
+      "addB_url":"https://rastariski01.github.io/boboyboymod/addon/addon2(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/boboyboymod/addon/addon2(R).mcpack",
+      "view_add":"https://klipi.github.io/mcp/boboy/ad2.webp",
+      "des_add":"https://klipi.github.io/mcp/boboy/adon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"BOBOI BOY MOD ADDON",
+      "add_url":"https://rastariski01.github.io/boboyboymod/addon/addon3.zip",
+      "addB_url":"https://rastariski01.github.io/boboyboymod/addon/addon3(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/boboyboymod/addon/addon3(R).mcpack",
+      "view_add":"https://klipi.github.io/mcp/boboy/ad3.webp",
+      "des_add":"https://klipi.github.io/mcp/boboy/adon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"BOBOI BOY MOD ADDON",
+      "add_url":"https://rastariski01.github.io/boboyboymod/addon/addon4.zip",
+      "addB_url":"https://rastariski01.github.io/boboyboymod/addon/addon4(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/boboyboymod/addon/addon4(R).mcpack",
+      "view_add":"https://klipi.github.io/mcp/boboy/ad4.webp",
+      "des_add":"https://klipi.github.io/mcp/boboy/adon.html"
+    }
+
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"BOBOI BOY MAP",
+      "map_url":"https://rastariski01.github.io/boboyboymod/map/map1.zip",
+      "view_map":"https://klipi.github.io/mcp/boboy/map.webp",
+      "des_map":"https://klipi.github.io/mcp/boboy/map.html"
     }
   ]
 }
