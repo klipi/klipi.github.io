@@ -1,0 +1,334 @@
+{
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"suwarni dev",
+      "image":"file:///android_asset/play.png",
+      "link":"https://play.google.com/store/apps/developer?id=suwarni+dev&hl=en"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin1.png",
+      "view_skin":"file:///android_asset/1.png"
+    },
+    {
+      "id":2,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin2.png",
+      "view_skin":"file:///android_asset/2.png"
+    },
+    {
+      "id":3,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin3.png",
+      "view_skin":"file:///android_asset/3.png"
+    },
+    {
+      "id":4,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin4.png",
+      "view_skin":"file:///android_asset/4.png"
+    },
+    {
+      "id":5,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin5.png",
+      "view_skin":"file:///android_asset/5.png"
+    },
+    {
+      "id":6,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin6.png",
+      "view_skin":"file:///android_asset/6.png"
+    },
+    {
+      "id":7,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin7.png",
+      "view_skin":"file:///android_asset/7.png"
+    },
+    {
+      "id":8,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin8.png",
+      "view_skin":"file:///android_asset/8.png"
+    },
+    {
+      "id":9,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin9.png",
+      "view_skin":"file:///android_asset/9.png"
+    },
+    {
+      "id":10,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin10.png",
+      "view_skin":"file:///android_asset/10.png"
+    },
+    {
+      "id":11,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin11.png",
+      "view_skin":"file:///android_asset/11.png"
+    },
+    {
+      "id":12,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin12.png",
+      "view_skin":"file:///android_asset/12.png"
+    },
+    {
+      "id":13,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin13.png",
+      "view_skin":"file:///android_asset/13.png"
+    },
+    {
+      "id":14,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin14.png",
+      "view_skin":"file:///android_asset/14.png"
+    },
+    {
+      "id":15,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin15.png",
+      "view_skin":"file:///android_asset/15.png"
+    },
+    {
+      "id":16,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin16.png",
+      "view_skin":"file:///android_asset/16.png"
+    },
+    {
+      "id":17,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin17.png",
+      "view_skin":"file:///android_asset/17.png"
+    },
+    {
+      "id":18,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin18.png",
+      "view_skin":"file:///android_asset/18.png"
+    },
+    {
+      "id":19,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin19.png",
+      "view_skin":"file:///android_asset/19.png"
+    },
+    {
+      "id":20,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin20.png",
+      "view_skin":"file:///android_asset/20.png"
+    },
+    {
+      "id":21,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin21.png",
+      "view_skin":"file:///android_asset/21.png"
+    },
+    {
+      "id":22,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin22.png",
+      "view_skin":"file:///android_asset/22.png"
+    },
+    {
+      "id":23,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin23.png",
+      "view_skin":"file:///android_asset/23.png"
+    },
+    {
+      "id":24,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin24.png",
+      "view_skin":"file:///android_asset/24.png"
+    },
+    {
+      "id":25,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin25.png",
+      "view_skin":"file:///android_asset/25.png"
+    },
+    {
+      "id":26,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin26.png",
+      "view_skin":"file:///android_asset/26.png"
+    },
+    {
+      "id":27,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin27.png",
+      "view_skin":"file:///android_asset/27.png"
+    },
+    {
+      "id":28,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin28.png",
+      "view_skin":"file:///android_asset/28.png"
+    },
+    {
+      "id":29,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin29.png",
+      "view_skin":"file:///android_asset/29.png"
+    },
+    {
+      "id":30,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin30.png",
+      "view_skin":"file:///android_asset/30.png"
+    },
+    {
+      "id":31,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin31.png",
+      "view_skin":"file:///android_asset/31.png"
+    },
+    {
+      "id":32,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin32.png",
+      "view_skin":"file:///android_asset/32.png"
+    },
+    {
+      "id":33,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin33.png",
+      "view_skin":"file:///android_asset/33.png"
+    },
+    {
+      "id":34,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin34.png",
+      "view_skin":"file:///android_asset/34.png"
+    },
+    {
+      "id":35,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin35.png",
+      "view_skin":"file:///android_asset/35.png"
+    },
+    {
+      "id":36,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin36.png",
+      "view_skin":"file:///android_asset/36.png"
+    },
+    {
+      "id":37,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin37.png",
+      "view_skin":"file:///android_asset/37.png"
+    },
+    {
+      "id":38,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin38.png",
+      "view_skin":"file:///android_asset/38.png"
+    },
+    {
+      "id":39,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin39.png",
+      "view_skin":"file:///android_asset/39.png"
+    },
+    {
+      "id":40,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin40.png",
+      "view_skin":"file:///android_asset/40.png"
+    },
+    {
+      "id":41,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin41.png",
+      "view_skin":"file:///android_asset/41.png"
+    },
+    {
+      "id":42,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin42.png",
+      "view_skin":"file:///android_asset/42.png"
+    },
+    {
+      "id":43,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin43.png",
+      "view_skin":"file:///android_asset/43.png"
+    },
+    {
+      "id":44,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin44.png",
+      "view_skin":"file:///android_asset/44.png"
+    },
+    {
+      "id":45,
+      "nama_skin":"BOBOI BOY SKIN",
+      "skin_url":"https://rastariski01.github.io/boboyboymod/skin/skin45.png",
+      "view_skin":"file:///android_asset/45.png"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"BOBOI BOY MOD ADDON",
+      "add_url":"https://rastariski01.github.io/boboyboymod/addon/addon1.zip",
+      "addB_url":"https://rastariski01.github.io/boboyboymod/addon/addon1(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/boboyboymod/addon/addon1(R).mcpack",
+      "view_add":"file:///android_asset/ad1.png",
+      "des_add":"file:///android_asset/adon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"BOBOI BOY MOD ADDON",
+      "add_url":"https://rastariski01.github.io/boboyboymod/addon/addon2.zip",
+      "addB_url":"https://rastariski01.github.io/boboyboymod/addon/addon2(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/boboyboymod/addon/addon2(R).mcpack",
+      "view_add":"file:///android_asset/ad2.png",
+      "des_add":"file:///android_asset/adon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"BOBOI BOY MOD ADDON",
+      "add_url":"https://rastariski01.github.io/boboyboymod/addon/addon3.zip",
+      "addB_url":"https://rastariski01.github.io/boboyboymod/addon/addon3(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/boboyboymod/addon/addon3(R).mcpack",
+      "view_add":"file:///android_asset/ad3.png",
+      "des_add":"file:///android_asset/adon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"BOBOI BOY MOD ADDON",
+      "add_url":"https://rastariski01.github.io/boboyboymod/addon/addon4.zip",
+      "addB_url":"https://rastariski01.github.io/boboyboymod/addon/addon4(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/boboyboymod/addon/addon4(R).mcpack",
+      "view_add":"file:///android_asset/ad4.png",
+      "des_add":"file:///android_asset/adon.html"
+    }
+
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"BOBOI BOY MAP",
+      "map_url":"https://rastariski01.github.io/boboyboymod/map/map1.zip",
+      "view_map":"file:///android_asset/map.png",
+      "des_map":"file:///android_asset/map.html"
+    }
+  ]
+}
