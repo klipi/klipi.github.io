@@ -4,7 +4,7 @@
       "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
-      "backup_mode": "ADMOB",
+      "backup_mode": "STARTAPP",
 
 
       "admob_inter1": "ca-app-pub-2941742403245073/8353179610",

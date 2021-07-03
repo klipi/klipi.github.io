@@ -4,14 +4,14 @@
     {
 
       
-      "select_ads":"0",
+      "select_ads":"ADMOB",
       "link":"http://",
-      "backup_mode":"0",
+      "backup_mode":"STARTAPP",
 
       
-      "admob_inter":"",
-      "admob_open_ads":"",
-      "admob_native_banner":"",
+      "admob_inter":"ca-app-pub-2941742403245073/4177220752",
+      "admob_open_ads":"ca-app-pub-2941742403245073/9237975749",
+      "admob_native_banner":"ca-app-pub-2941742403245073/2864139083",
 
       "interval":3,
 

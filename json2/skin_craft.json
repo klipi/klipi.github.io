@@ -7,6 +7,7 @@
       "select_ads":"0",
       "link":"http://",
       "backup_mode":"0",
+      "banner_apa_native":"BANNER",
 
       
       "admob_inter":"",
@@ -24,9 +25,9 @@
       "mopub_banner":"",
       "mopub_inter":"",
       
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":"",
+      "unityID":"4200166",
+      "unity_inter":"Interstitial_Android",
+      "unity_banner":"Banner_Android",
 
 
       "status":"0"

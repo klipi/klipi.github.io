@@ -24,9 +24,9 @@
       "mopub_banner":"",
       "mopub_inter":"",
       
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":"",
+      "unityID":"4200166",
+      "unity_inter":"Interstitial_Android",
+      "unity_banner":"Banner_Android",
 
 
       "status":"0"
