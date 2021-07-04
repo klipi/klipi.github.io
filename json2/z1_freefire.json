@@ -7,11 +7,14 @@
       "select_ads":"0",
       "link":"http://",
       "backup_mode":"0",
+      "banner_apa_native":"BANNER",
 
-      
+      "admob_banner":"",
       "admob_inter":"",
-      "admob_open_ads":"",
+      
       "admob_native_banner":"",
+      "admob_open_ads":"",
+      
 
       "interval":3,
 
