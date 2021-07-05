@@ -1,0 +1,49 @@
+{
+  "Ads":
+  [
+    {
+
+      
+      "select_ads":"0",
+      "link":"http://",
+      "backup_mode":"0",
+      "banner_apa_native":"BANNER",
+
+      "admob_banner":"",
+      "admob_inter":"",
+      
+      "admob_native_banner":"",
+      "admob_open_ads":"",
+      
+
+      "interval":3,
+
+      "fan_inter":"",
+      "fan_native_banner":"",
+
+
+      "startappid":"205147161",
+
+      "mopub_banner":"",
+      "mopub_inter":"",
+      
+      "unityID":"4200166",
+      "unity_inter":"Interstitial_Android",
+      "unity_banner":"Banner_Android",
+
+
+      "status":"0"
+    }
+
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"GET THIS SKIN ON GOOGLE PLAY",
+      "image":"https://klipi.github.io/gambar/mors.webp",
+      "link":"https://play.google.com/store/apps/developer?id=IPPS+DIVILIPIR"
+    }
+  ]
+}
