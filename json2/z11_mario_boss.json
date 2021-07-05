@@ -4,9 +4,9 @@
     {
 
       
-      "select_ads":"UNITY",
+      "select_ads":"0",
       "link":"http://",
-      "backup_mode":"STARTAPP",
+      "backup_mode":"0",
       "banner_apa_native":"BANNER",
 
       "admob_banner":"",
