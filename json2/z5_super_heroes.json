@@ -4,16 +4,16 @@
     {
 
       
-      "select_ads":"0",
+      "select_ads":"ADMOB",
       "link":"http://",
-      "backup_mode":"0",
+      "backup_mode":"STARTAPP",
       "banner_apa_native":"BANNER",
 
-      "admob_banner":"",
-      "admob_inter":"",
+      "admob_banner":"ca-app-pub-2941742403245073/2452381010",
+      "admob_inter":"ca-app-pub-2941742403245073/8826217674",
       
-      "admob_native_banner":"",
-      "admob_open_ads":"",
+      "admob_native_banner":"ca-app-pub-2941742403245073/2093288366",
+      "admob_open_ads":"ca-app-pub-2941742403245073/3931508867",
       
 
       "interval":3,
