@@ -4,9 +4,9 @@
     {
 
       
-      "select_ads":"STARTAPP",
+      "select_ads":"ADMOB",
       "link":"http://",
-      "backup_mode":"ADMOB",
+      "backup_mode":"STARTAPP",
 
       
       "admob_inter":"ca-app-pub-2941742403245073/4177220752",
