@@ -1,21 +1,22 @@
 {
   "Ads": [
     {
-      "select_ads": "ISI",
+      "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
 
 
-      "backup_on_off": "0",
-      "select_backup_ads": "xSTARTAPP",
+      "backup_on_off": "1",
+      "select_backup_ads": "STARTAPP",
       "banner_apa_native": "BANNER",
 
 
-	    "admob_banner": "",
-      "admob_inter1": "",
-      "admob_native": "",
-      "admob_native_banner": "",
-      "admob_open": "",
+	  "admob_banner": "",
+      "admob_inter1": "ca-app-pub-2941742403245073/7626992127",
+      "admob_native": "Xca-app-pub-2941742403245073/6093299041",
+      "admob_native_banner": "Xca-app-pub-2941742403245073/7473581900",
+      "admob_open": "ca-app-pub-2941742403245073/4847418567",
+
 
 
       "interval": 5,
