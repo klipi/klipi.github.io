@@ -7,11 +7,11 @@
 
 
       "backup_on_off": "1",
-      "select_backup_ads": "STARTAPP",
+      "select_backup_ads": "MOPUB",
       "banner_apa_native": "BANNER",
 
 
-	    "admob_banner": "ca-app-pub-2941742403245073/5186279580",
+	  "admob_banner": "ca-app-pub-2941742403245073/5186279580",
       "admob_inter1": "ca-app-pub-2941742403245073/7626992127",
       "admob_native": "Xca-app-pub-2941742403245073/6093299041",
       "admob_native_banner": "Xca-app-pub-2941742403245073/7473581900",
@@ -32,9 +32,9 @@
       "applovin_inter": "XX",
 
 
-      "mopub_banner": "XX",
-      "mopub_mrec": "XX",
-      "mopub_inter": "XX"
+      "mopub_banner": "8cf7daeb75624e66a207b458806b9ca9",
+      "mopub_mrec": "ab148de61ee54562874b5fbc803fac84",
+      "mopub_inter": "b4c16dfc805e429a82262532e65d0be6"
     }
   ]
 }
