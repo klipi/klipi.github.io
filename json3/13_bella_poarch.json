@@ -7,14 +7,14 @@
 
 
       "backup_on_off": "1",
-      "select_backup_ads": "-",
+      "select_backup_ads": "STARTAPP",
       "banner_apa_native": "BANNER",
 
 
 	    "admob_banner": "ca-app-pub-2941742403245073/7627845750",
       "admob_inter1": "ca-app-pub-2941742403245073/6955078280",
-      "admob_native": "ca-app-pub-2941742403245073/4081502936",
-      "admob_native_banner": "ca-app-pub-2941742403245073/9142257924",
+      "admob_native": "Xca-app-pub-2941742403245073/4081502936",
+      "admob_native_banner": "Xca-app-pub-2941742403245073/9142257924",
       "admob_open": "ca-app-pub-2941742403245073/6516094581",
 
 

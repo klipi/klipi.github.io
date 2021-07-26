@@ -41,7 +41,10 @@
 
       "applovin_banner": "XX",
       "applovin_inter": "XX",
-      "applovin_reward": "XX"
+      "applovin_reward": "XX",
+      "applovin_mrec": "XX"
     }
-  ]
+  ],
+
+  
 }
