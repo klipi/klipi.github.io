@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "ADMOB",
+      "select_ads": "APPLOVIN",
       "status_app": "0",
       "link_redirect": "https://",
 
@@ -27,8 +27,8 @@
 
 
 
-      "applovin_banner": "XX",
-      "applovin_inter": "XX",
+      "applovin_banner": "e464132a106536f1",
+      "applovin_inter": "4f6e1c459ade6320",
 
 
       "mopub_banner": "54a41277ff1b45bfa3c901a91d1c0748",

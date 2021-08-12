@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "ISI",
+      "select_ads": "APPLOVIN",
       "status_app": "0",
       "link_redirect": "https://",
 
@@ -27,8 +27,8 @@
 
 
 
-      "applovin_banner": "XX",
-      "applovin_inter": "XX",
+      "applovin_banner": "45a229e75f9752a7",
+      "applovin_inter": "2e541a6b8a5f85da",
 
 
       "mopub_banner": "XX",
