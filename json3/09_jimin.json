@@ -1,13 +1,13 @@
 {
   "Ads": [
     {
-      "select_ads": "APPLOVIN",
+      "select_ads": "MOPUB",
       "status_app": "0",
       "link_redirect": "https://",
 
 
       "backup_on_off": "0",
-      "select_backup_ads": "xSTARTAPP",
+      "select_backup_ads": "APPLOVIN",
       "banner_apa_native": "BANNER",
 
 
@@ -31,9 +31,9 @@
       "applovin_inter": "2e541a6b8a5f85da",
 
 
-      "mopub_banner": "XX",
-      "mopub_mrec": "XX",
-      "mopub_inter": "XX"
+      "mopub_banner": "981127d4926f46bcbbab2a03ca2520a4",
+      "mopub_mrec": "fe76f11df47749abb4b4f9610f0fdf82",
+      "mopub_inter": "1c1ada6b946e49e281bb004b2c83407d"
     }
   ],
 

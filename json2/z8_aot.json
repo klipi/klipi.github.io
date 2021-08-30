@@ -4,7 +4,7 @@
     {
 
       
-      "select_ads":"ADMOB",
+      "select_ads":"MOPUB",
       "link":"http://",
       "backup_mode":"STARTAPP",
       "banner_apa_native":"BANNER",
@@ -24,8 +24,8 @@
 
       "startappid":"205147161",
 
-      "mopub_banner":"",
-      "mopub_inter":"",
+      "mopub_banner":"807681dc2f544a5ea85a8550ef3a9956",
+      "mopub_inter":"d226ca6c14ed4f48afb3e624ed5c5221",
       
       "unityID":"4200167",
       "unity_inter":"Interstitial_Android",

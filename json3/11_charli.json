@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_ads": "MOPUB",
-      "status_app": "0",
+      "status_app": "0564",
       "link_redirect": "https://",
 
       "backup_on_off": "1",
@@ -16,10 +16,7 @@
       "admob_native_banner": "ca-app-pub-2941742403245073/9116484994",
       "admob_open": "ca-app-pub-2941742403245073/7803403327",
 
-
       "interval": 5,
-
-      
       "startappid": "205147161",
       "age1": 35,
       "age2": 25,

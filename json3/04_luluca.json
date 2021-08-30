@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_ads": "MOPUB",
-      "status_app": "0",
+      "status_app": "054",
       "link_redirect": "https://",
 
 
@@ -10,13 +10,11 @@
       "select_backup_ads": "APPLOVIN",
       "banner_apa_native": "BANNER",
 
-
 	  "admob_banner": "ca-app-pub-2941742403245073/5186279580",
       "admob_inter1": "ca-app-pub-2941742403245073/7626992127",
       "admob_native": "Xca-app-pub-2941742403245073/6093299041",
       "admob_native_banner": "Xca-app-pub-2941742403245073/7473581900",
       "admob_open": "ca-app-pub-2941742403245073/4847418567",
-
 
 
       "interval": 5,
