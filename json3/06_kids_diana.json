@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "APPLOVIN",
+      "select_ads": "MOPUB",
       "status_app": "0",
       "link_redirect": "https://",
 
@@ -11,8 +11,8 @@
       "banner_apa_native": "BANNER",
 
 
-	    "admob_banner": "ca-app-pub-2941742403245073/9485451396",
-      "admob_inter1": "ca-app-pub-2941742403245073/4198366085",
+	    "admob_banner": "Xca-app-pub-2941742403245073/9485451396",
+      "admob_inter1": "Xca-app-pub-2941742403245073/4198366085",
       "admob_native": "Xca-app-pub-2941742403245073/6089198108",
       "admob_native_banner": "Xca-app-pub-2941742403245073/9067549389",
       "admob_open": "ca-app-pub-2941742403245073/4911299067",
@@ -31,9 +31,9 @@
       "applovin_inter": "06dd8a82b64b67f5",
 
 
-      "mopub_banner": "XX",
-      "mopub_mrec": "XX",
-      "mopub_inter": "XX"
+      "mopub_banner": "7fa7d1985aaf4639b589032d7f12e26c",
+      "mopub_mrec": "2f1bd280387a4f97afce5cc74ca4a568",
+      "mopub_inter": "3a98bdbaa16343eea8854688a5ae12d9"
     }
   ],
 
