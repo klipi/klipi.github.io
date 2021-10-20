@@ -1,0 +1,39 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "xx",
+      "select_backup_ads":"xx",
+
+      "main_ads_banner": "DefaultBanner",
+      "main_ads_mrec": "DefaultBanner",
+      "main_ads_intertitial":"DefaultInterstitial",
+
+      "admob_native":"xx",
+      "admob_open":"xx",
+      "admob_open2":"xx",
+      "open_only":"no",
+
+      "backup_ads_banner":"DefaultBanner",
+      "backup_ads_mrec":"DefaultBanner",
+      "backup_ads_intertitial":"DefaultInterstitial",
+
+      "interval_intertitial": 0,
+
+      "initialize_sdk":"INITIALIZE_SDK",
+      "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
+
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+
+
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ]
+}
+
