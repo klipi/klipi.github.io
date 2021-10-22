@@ -1,0 +1,39 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "IRON",
+      "select_backup_ads":"APPLOVIN-M",
+
+      "main_ads_banner": "DefaultBanner",
+      "main_ads_mrec": "DefaultBanner",
+      "main_ads_intertitial":"DefaultInterstitial",
+
+      "admob_native":"xx",
+      "admob_open":"xx",
+      "admob_open2":"xx",
+      "open_only":"no",
+
+      "backup_ads_banner":"f871757e7714acb7",
+      "backup_ads_mrec":"f871757e7714acb7",
+      "backup_ads_intertitial":"06dd8a82b64b67f5",
+
+      "interval_intertitial": 0,
+
+      "initialize_sdk":"I11a1c98a5",
+      "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
+
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+
+
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ]
+}
+
