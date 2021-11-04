@@ -2,26 +2,26 @@
   "Ads":
   [
     {
-      "select_main_ads": "IRON",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
 
-      "main_ads_banner": "DefaultBanner",
-      "main_ads_mrec": "DefaultBanner",
-      "main_ads_intertitial":"DefaultInterstitial",
+      "main_ads_banner": "ca-app-pub-2941742403245073/9485451396",
+      "main_ads_mrec": "ca-app-pub-2941742403245073/9485451396",
+      "main_ads_intertitial":"ca-app-pub-2941742403245073/4198366085",
 
-      "admob_native":"xx",
-      "admob_open":"xx",
-      "admob_open2":"xx",
-      "open_only":"no",
+      "admob_native":"ca-app-pub-2941742403245073/6089198108",
+      "admob_open":"ca-app-pub-2941742403245073/4911299067",
+      "admob_open2":"ca-app-pub-2941742403245073/4911299067",
+      "open_only":"NO",
 
-      "backup_ads_banner":"f871757e7714acb7",
-      "backup_ads_mrec":"f871757e7714acb7",
-      "backup_ads_intertitial":"06dd8a82b64b67f5",
+      "backup_ads_banner":"DefaultBanner",
+      "backup_ads_mrec":"DefaultBanner",
+      "backup_ads_intertitial":"DefaultInterstitial",
 
       "interval_intertitial": 0,
 
-      "initialize_sdk":"I11a1c98a5",
-      "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
+      "initialize_sdk":"INITIALIZE_SDK",
+      "initialize_sdk_backup_ads":"11a1c98a5",
 
 
       "high_paying_keyword_1": "",
