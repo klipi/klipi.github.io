@@ -4,10 +4,10 @@
     {
 
       
-      "select_ads":"MOPUB",
+      "select_ads":"ADMOB",
       "link":"http://",
       "backup_mode":"STARTAPP",
-      "banner_apa_native":"BANNER",
+      "banner_apa_native":"NATIVE",
 
       "admob_banner":"ca-app-pub-2941742403245073/9418326188",
       "admob_inter":"ca-app-pub-2941742403245073/8105244516",
