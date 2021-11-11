@@ -3,7 +3,7 @@
     {
 
       "select_ads":"ADMOB",
-      "select_backup_ads":"FACEBOOK",
+      "select_backup_ads":"STARTAPP",
 
       "main_ads_inter":"ca-app-pub-2941742403245073/1247110558",
       "main_ads_banner":"ca-app-pub-2941742403245073/2560192221",
@@ -12,7 +12,7 @@
       "backup_ads_banner":"4680303801994216_4680303948660868",
 
       "initial_sdk":"INITIALIZE_SDK",
-      "initial_sdk_backup":"INITIALIZE_SDK_BACKUP_ADS",
+      "initial_sdk_backup":"204612855",
 
 
 
