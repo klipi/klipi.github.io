@@ -5,10 +5,10 @@
       "select_main_ads":"ADMOB",
       "select_backup_ads":"STARTAPP",
 
-      "main_ads_inter":"ca-app-pub-2941742403245073/6955078280",
+      "main_ads_intertitial":"ca-app-pub-2941742403245073/6955078280",
       "main_ads_banner":"ca-app-pub-2941742403245073/9142257924",
 
-      "backup_ads_inter":"DefaultInterstitial",
+      "backup_ads_intertitial":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
 
       "initialize_sdk":"INITIALIZE_SDK",
