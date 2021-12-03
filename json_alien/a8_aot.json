@@ -2,17 +2,17 @@
   "Ads": [
     {
 
-      "select_ads":"ADMOB",
-      "select_backup_ads":"STARTAPP",
+      "select_main_ads":"204612855",
+      "select_backup_ads":"XXSTARTAPP",
 
-      "main_ads_inter":"ca-app-pub-2941742403245073/8105244516",
+      "main_ads_intertitial":"ca-app-pub-2941742403245073/8105244516",
       "main_ads_banner":"ca-app-pub-2941742403245073/9418326188",
 
-      "backup_ads_inter":"DefaultInterstitial",
+      "backup_ads_intertitial":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
 
-      "initial_sdk":"INITIALIZE_SDK",
-      "initial_sdk_backup":"204612855",
+      "initialize_sdk":"204612855",
+      "initialize_sdk_backup_ads":"204612855",
 
 
 
@@ -20,17 +20,17 @@
       "admob_open": "ca-app-pub-2941742403245073/9028563507",
       "admob_open2": "ca-app-pub-2941742403245073/9703657759",
       "open_only": "MIX",
-      "lawas": "YES",
+      "lawas": "NO",
       "fan": "NO",
 
       "mode3d": "1",
       "url3d": "https://aliendro.id/skinview/tools/3dskinviewer/index.php?url=",
 
-      "hpk1": "insurance",
-      "hpk2": "aparel",
-      "hpk3": "sport",
-      "hpk4": "car",
-      "hpk5": "vps",
+      "high_paying_keyword_1": "insurance",
+      "high_paying_keyword_2": "aparel",
+      "high_paying_keyword_3": "sport",
+      "high_paying_keyword_4": "car",
+      "high_paying_keyword_5": "vps",
       
       "status_app": "0879869867896879667567576",
       "link_redirect": "https://"
