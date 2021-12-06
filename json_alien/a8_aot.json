@@ -2,8 +2,8 @@
   "Ads": [
     {
 
-      "select_main_ads":"204612855",
-      "select_backup_ads":"XXSTARTAPP",
+      "select_main_ads":"ADMOB",
+      "select_backup_ads":"STARTAPP",
 
       "main_ads_intertitial":"ca-app-pub-2941742403245073/8105244516",
       "main_ads_banner":"ca-app-pub-2941742403245073/9418326188",
@@ -11,7 +11,7 @@
       "backup_ads_intertitial":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
 
-      "initialize_sdk":"204612855",
+      "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"204612855",
 
 
