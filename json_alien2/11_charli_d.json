@@ -8,7 +8,7 @@
       "main_ads_intertitial":"ca-app-pub-2941742403245073/8049981180",
       "main_ads_banner":"ca-app-pub-2941742403245073/5046199850",
 
-      "backup_ads_inter":"DefaultInterstitial",
+      "backup_ads_intertitial":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
 
       "initialize_sdk":"INITIALIZE_SDK",

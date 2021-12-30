@@ -2,25 +2,25 @@
   "Ads": [
     {
 
-      "select_ads":"ADMOB",
-      "select_backup_ads":"STARTAPP",
+      "select_main_ads":"ADMOB",
+      "select_backup_ads":"IRONX",
 
-      "main_ads_intertitial":"ca-app-pub-2941742403245073/6739455866",
+      "main_ads_intertitial":"ca-app-pub-2941742403245073/6393161180",
       "main_ads_banner":"DefaultBanner",
 
       "backup_ads_intertitial":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
 
-      "initial_sdk":"INITIALIZE_SDK",
-      "initial_sdk_backup":"205147161",
+      "initialize_sdk":"INITIALIZE_SDK",
+      "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
 
 
 
-      "admob_native": "ca-app-pub-2941742403245073/4113292528",
-      "admob_open": "ca-app-pub-2941742403245073/4869531493",
-      "admob_open2": "ca-app-pub-2941742403245073/3020606002",
+      "admob_native": "ca-app-pub-2941742403245073/5080079518",
+      "admob_open": "ca-app-pub-2941742403245073/2958163269",
+      "admob_open2": "ca-app-pub-2941742403245073/2453916177",
       "open_only": "NO",
-      "lawas": "YES",
+      "lawas": "NO",
       "fan": "NO",
 
       "mode3d": "1",
