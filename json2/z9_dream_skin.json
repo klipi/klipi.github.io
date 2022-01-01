@@ -4,16 +4,16 @@
     {
 
       
-      "select_ads":"MOPUB",
+      "select_ads":"ADMOB",
       "link":"http://",
       "backup_mode":"0",
       "banner_apa_native":"BANNER",
 
       "admob_banner":"",
-      "admob_inter":"",
+      "admob_inter":"ca-app-pub-2941742403245073/1002670499",
       
       "admob_native_banner":"",
-      "admob_open_ads":"",
+      "admob_open_ads":"ca-app-pub-2941742403245073/8848730297",
       
 
       "interval":3,

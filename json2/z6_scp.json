@@ -6,13 +6,13 @@
       
       "select_ads":"ADMOB",
       "link":"http://",
-      "backup_mode":"STARTAPP",
+      "backup_mode":"",
       "banner_apa_native":"BANNER",
 
-      "admob_banner":"ca-app-pub-2941742403245073/4340177751",
+      "admob_banner":"ca-app-pub-2941742403245073/4340177751XXX",
       "admob_inter":"ca-app-pub-2941742403245073/6415676755",
       
-      "admob_native_banner":"ca-app-pub-2941742403245073/6600591154",
+      "admob_native_banner":"ca-app-pub-2941742403245073/6600591154XXX",
       "admob_open_ads":"ca-app-pub-2941742403245073/7537186730",
       
 
