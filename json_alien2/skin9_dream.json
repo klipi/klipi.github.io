@@ -6,7 +6,7 @@
       "select_backup_ads":"IRONX",
 
       "main_ads_intertitial":"DefaultInterstitial",
-      "main_ads_banner":"DefaultBanner",
+      "main_ads_banner": "DefaultBanner",
 
       "backup_ads_intertitial":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
