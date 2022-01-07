@@ -2,23 +2,23 @@
   "Ads": [
     {
 
-      "select_main_ads":"ADMOBX",
-      "select_backup_ads":"IRONX",
+      "select_main_ads":"ADMOB",
+      "select_backup_ads":"IRON",
 
-      "main_ads_intertitial":"DefaultInterstitial",
+      "main_ads_intertitial":"ca-app-pub-2941742403245073/6415676755",
       "main_ads_banner": "DefaultBanner",
 
       "backup_ads_intertitial":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
 
       "initialize_sdk":"INITIALIZE_SDK",
-      "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
+      "initialize_sdk_backup_ads":"12de0a645",
 
 
 
-      "admob_native": "xx",
-      "admob_open": "xx",
-      "admob_open2": "xx",
+      "admob_native": "ca-app-pub-2941742403245073/6600591154",
+      "admob_open": "ca-app-pub-2941742403245073/7537186730",
+      "admob_open2": "ca-app-pub-2941742403245073/7949230523",
       "open_only": "NO",
       "lawas": "NO",
       "fan": "NO",
