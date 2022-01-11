@@ -1,0 +1,42 @@
+{
+  "Ads": [
+    {
+
+      "select_main_ads":"ADMOBX",
+      "select_backup_ads":"IRONX",
+
+      "main_ads_intertitial":"DefaultInterstitial",
+      "main_ads_banner": "DefaultBanner",
+
+      "backup_ads_intertitial":"DefaultInterstitial",
+      "backup_ads_banner":"DefaultBanner",
+
+      "initialize_sdk":"INITIALIZE_SDK",
+      "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
+
+
+
+      "admob_inter": "xx",
+      "admob_inter2": "xx",
+      "admob_native": "xx",
+      "admob_native2": "xx",
+      "admob_native_big": "xx",
+      "admob_open": "xx",
+
+      "interval": 1,
+
+
+      "mode3d": "1",
+      "url3d": "https://aliendro.id/skinview/tools/3dskinviewer/index.php?url=",
+
+      "hpk1": "insurance",
+      "hpk2": "aparel",
+      "hpk3": "sport",
+      "hpk4": "car",
+      "hpk5": "vps",
+      
+      "status_app": "0879869867896879667567576",
+      "link_redirect": "https://"
+    }
+  ]
+}
