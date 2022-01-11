@@ -14,8 +14,6 @@
       "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"11abacea5",
 
-
-
       "admob_inter": "ca-app-pub-2941742403245073/4098525240",
       "admob_inter2": "ca-app-pub-2941742403245073/9617976353",
       "admob_native": "ca-app-pub-2941742403245073/9159280239",
@@ -29,11 +27,11 @@
       "mode3d": "1",
       "url3d": "https://aliendro.id/skinview/tools/3dskinviewer/index.php?url=",
 
-      "hpk1": "insurance",
+      "hpk1": "video",
       "hpk2": "aparel",
       "hpk3": "sport",
       "hpk4": "car",
-      "hpk5": "vps",
+      "hpk5": "mobil",
       
       "status_app": "0879869867896879667567576",
       "link_redirect": "https://"
