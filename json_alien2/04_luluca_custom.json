@@ -1,0 +1,39 @@
+{
+  "Ads": [
+    {
+
+      "select_main_ads":"ADMOB",
+      "select_backup_ads":"IRON",
+
+      "main_ads_intertitial":"ca-app-pub-2941742403245073/7626992127",
+      "main_ads_banner": "DefaultBanner",
+
+      "backup_ads_intertitial":"DefaultInterstitial",
+      "backup_ads_banner":"DefaultBanner",
+
+      "initialize_sdk":"INITIALIZE_SDK",
+      "initialize_sdk_backup_ads":"11a1c5f1d",
+
+
+
+      "admob_native": "ca-app-pub-2941742403245073/7473581900",
+      "admob_open": "ca-app-pub-2941742403245073/4847418567",
+      "admob_open2": "ca-app-pub-2941742403245073/5606138211",
+      "open_only": "NO",
+      "lawas": "NO",
+      "fan": "NO",
+
+      "mode3d": "1",
+      "url3d": "https://aliendro.id/skinview/tools/3dskinviewer/index.php?url=",
+
+      "hpk1": "insurance",
+      "hpk2": "aparel",
+      "hpk3": "sport",
+      "hpk4": "car",
+      "hpk5": "vps",
+      
+      "status_app": "0879869867896879667567576",
+      "link_redirect": "https://"
+    }
+  ]
+}
