@@ -1,0 +1,39 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+
+      "main_ads_banner": "ca-app-pub-2941742403245073/2029914389",
+      "main_ads_mrec": "ca-app-pub-2941742403245073/2029914389",
+      "main_ads_intertitial":"ca-app-pub-2941742403245073/8353179610",
+
+      "admob_native":"ca-app-pub-2941742403245073/1488727675",
+      "admob_open":"ca-app-pub-2941742403245073/5535444583",
+      "admob_open2":"ca-app-pub-2941742403245073/5535444583",
+      "open_only":"NO",
+
+      "backup_ads_banner":"DefaultBanner",
+      "backup_ads_mrec":"DefaultBanner",
+      "backup_ads_intertitial":"DefaultInterstitial",
+
+      "interval_intertitial": 0,
+
+      "initialize_sdk":"INITIALIZE_SDK",
+      "initialize_sdk_backup_ads":"11a1d453d",
+
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "ca-app-pub-2941742403245073/8555265997",
+      "high_paying_keyword_5": "ca-app-pub-2941742403245073/7789156843",
+
+
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ]
+}
+
