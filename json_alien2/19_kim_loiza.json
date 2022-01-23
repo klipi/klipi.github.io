@@ -3,7 +3,7 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"IRONX",
+      "select_backup_ads":"IRON",
 
       "main_ads_intertitial":"ca-app-pub-2941742403245073/1996435382",
       "main_ads_banner": "DefaultBanner",
@@ -12,7 +12,7 @@
       "backup_ads_banner":"DefaultBanner",
 
       "initialize_sdk":"INITIALIZE_SDK",
-      "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
+      "initialize_sdk_backup_ads":"1308a7c15",
 
 
 
