@@ -1,0 +1,42 @@
+{
+   "More":
+  [
+    {
+      "id":0,
+      "title":"GET THIS SKIN ON GOOGLE PLAY",
+      "image":"https://klipi.github.io/gambar/mors.webp",
+      "link":"https://play.google.com/store/apps/developer?id=IPPS+DIVILIPIR"
+    }
+    {
+      "id":1,
+      "title":"BTS JIMIN",
+      "image":"https://play-lh.googleusercontent.com/3vrr2syC0RulrHYlJUjh6nXvZt0YN_HtOaS2AokRBO2ewGzfcyXd-RvNYjxzbuQ9BA=s360",
+      "link":"https://play.google.com/store/apps/details?id=com.msa.btsjimin_army_fakecall.claim"
+    },
+    {
+      "id":2,
+      "title":"Nastya",
+      "image":"https://play-lh.googleusercontent.com/ECjSJRvCucBY_q5FFVn9NGJPxfjuFKxmANKUo8eseyHcQgzZ454Q5tQZ-n6yuT04NWw=s360",
+      "link":"https://play.google.com/store/apps/details?id=com.msa.likenastya_fakecall"
+    },
+    {
+      "id":3,
+      "title":"Riyaz Aly",
+      "image":"https://play-lh.googleusercontent.com/t5im5QYxrL6y29CD7bFCBVTax5XzforzAVeiaJ0bRjOj19OnTp_rX755IE752FVFJg=s360",
+      "link":"https://play.google.com/store/apps/details?id=com.msa.riyazaly_fakechat.fakecall"
+    },
+    {
+      "id":4,
+      "title":"Jennie Blackpink",
+      "image":"https://play-lh.googleusercontent.com/NWvljrttTQS3s1MEA3rkV8QqOtUkoAllNWkfbhKJMn1DmIKYLqSrFXF7R8JFsbnTld0=s360",
+      "link":"https://play.google.com/store/apps/details?id=com.msa.blackpink_jennie_fakecall.web"
+    },
+    {
+      "id":5,
+      "title":"Jungkook",
+      "image":"https://play-lh.googleusercontent.com/XreHfvvX8hstZjjSffZGgOqJ2Bw_HpgnNDjXaAqdmCBKAIiNyd2_9FbVqXscixeKgA=s360",
+      "link":"https://play.google.com/store/apps/details?id=com.msa.jungkook_bts_army_fakecall"
+    }
+  ]
+}
+
