@@ -2,20 +2,20 @@
   "Ads": [
     {
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"STARTA",
+      "select_backup_ads":"APPLOVIN-M",
 
       "main_ads_intertitial":"ca-app-pub-2941742403245073/3074084153",
       "main_ads_banner":"DefaultBanner",
 
-      "backup_ads_intertitial":"DefaultIntertitial",
-      "backup_ads_banner":"DefaultBanner",
+      "backup_ads_intertitial":"3aeae2456e6f5e2a",
+      "backup_ads_banner":"561bb9286584d620",
 
       "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
 
       "admob_native": "ca-app-pub-2941742403245073/6295143865",
       "admob_open": "xx",
-      "interval":0,
+      "interval":1,
 
       "hpk_1": "ca-app-pub-2941742403245073/2131692368",
       "hpk_2": "ca-app-pub-2941742403245073/8505529022",
