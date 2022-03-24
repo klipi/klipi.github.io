@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads":"xx",
-      "select_backup_ads":"STARTA",
+      "select_backup_ads":"IRON",
 
       "main_ads_intertitial":"DefaultIntertitial",
       "main_ads_banner":"DefaultBanner",
