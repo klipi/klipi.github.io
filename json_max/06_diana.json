@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads":"xx",
-      "select_backup_ads":"IRON",
+      "select_backup_ads":"xxxxx",
 
       "main_ads_intertitial":"DefaultIntertitial",
       "main_ads_banner":"DefaultBanner",
@@ -15,7 +15,7 @@
 
       "admob_native": "xx",
       "admob_open": "xx",
-      "interval":1,
+      "interval":0,
 
       "hpk_1": "",
       "hpk_2": "",

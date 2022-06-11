@@ -15,7 +15,7 @@
 
       "admob_native": "xx",
       "admob_open": "xx",
-      "interval":1,
+      "interval":0,
 
       "hpk_1": "",
       "hpk_2": "",
